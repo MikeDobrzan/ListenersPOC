@@ -1,0 +1,2 @@
+# Listeners POC
+The relevant source files are located under `Assets/Listeners`. This is a Unity project, although the actual listener class files are not dependent on Unity, and can be used within any C# project.
